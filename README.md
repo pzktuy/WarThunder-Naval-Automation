@@ -18,7 +18,11 @@ in testdrive (or naval history battle if you want to)
 "请只派遣一条船参加海战历史模式\n"
 
 界面语言请选择中文
+
 Only Chinese language is currently surported.
 
 使用脚本有概率被封号，尤其是长时间运行！(我的账号因为24小时运行脚本已在2026年8月健康行动中被封禁！)因此在最新的更新中加入了限制运行时间等一系列优化与人性化的修改。
+
 Using autoscript may causing your account to be blocked, especially when you run the script around the clock.(My account was blocked permanently due to this!) So I made some improvements in order to make this program more safe and user-friendly.
+
+To download the Program please go to the Release area
